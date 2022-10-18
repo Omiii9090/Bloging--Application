@@ -10,10 +10,15 @@ A blogging Application is a type of social website it allows people to interact 
 Tools and technologies:
  Backend:1.Spring Boot.
                 2. Hibernate(ORM)
+                
                 3.MySql-Workbench-8.0
+ 
                 4. Model Mapper.
+               
                 5. Lombok.
+                
                 6. Swagger (API Documentation)
+                
                 7.JWT Authorization(not completly Working )
 
  Testing:
