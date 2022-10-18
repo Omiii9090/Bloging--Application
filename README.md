@@ -1,13 +1,13 @@
-BLOGING APPLICTION 
+# BLOGING APPLICTION 
  
-Name - omkar vinod parab
+# Name - omkar vinod parab
 
 
 Institute Name-CDAC Thiruvananthapuram.
 
 Qualification- BE(Mech)+PGDAC. 
 
-Introduction:
+# Introduction:
 A blogging Application is a type of social website it allows people to interact with each other. it is very easy to start and maintain. we can able to update our content and post by creating a post we can able to shear our thoughts, knowledge, and experience with different people using this application we can create post customized posts and post them on a website and able to read other users' posts.
 
 
@@ -43,6 +43,23 @@ FrontEnd:
               
               5.Axios     
               
+# What I Learn From This Project ?
+
+1.Best Way of coding   (The layered architecture style)
+
+2.Api creation,Spring boot, Spring Boot Annotation and their use 
+
+3.lambok (TO reduce line of code and make my task easy)
+
+4.Model Mapper(Map objects)
+
+5.JwT Authentication process 
+
+6.PostMan (API testing part)
+
+7.Swagger (Api Dcumentation)
+
+
 
 # Architecture And Flow OF Code:
 The layered architecture style is one of the most common architectural styles. The idea behind Layered Architecture is that modules or components with similar functionalities are organized into horizontal layers. As a result, each layer performs a specific role within the application.
@@ -112,6 +129,23 @@ image 1
 image 2 
 ![Sawagger api2](https://user-images.githubusercontent.com/110629636/196474212-e18eb256-2a7a-4641-90e5-748732489629.png)
 
+
+# Future Modifications:
+
+1.Trying for 100 working of Jwt.
+
+2.Deployment On AWS.
+
+3.Trying to make UI Part more Interactive.
+
+4.Working more On React
+
+5.Try TO create few  more Apis
+
+
+                       
+                       
+                                          #Thank You So Much ❤️
 
 
 
