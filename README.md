@@ -45,8 +45,13 @@ FrontEnd:
 
 DataBase=MysqlWorkBench 8.0
 
-ER DIAGRAM-
+1.ER DIAGRAM-
 ![ER Diagram bloging Application](https://user-images.githubusercontent.com/110629636/196459622-7cfa4513-4de5-48c2-849f-7d38590e796e.png)
+
+2. DATABASE DIAGRAM : I used here special Features of MySql Workbench ( REVERSE ENGINEERING  )
+![DB DIAGRAM](https://user-images.githubusercontent.com/110629636/196463728-43761ab8-4f20-43f5-982d-f1163bbefece.png)
+
+
 
 
 
