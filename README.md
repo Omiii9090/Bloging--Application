@@ -8,7 +8,9 @@ Introduction:
 A blogging Application is a type of social website it allows people to interact with each other. it is very easy to start and maintain. we can able to update our content and post by creating a post we can able to shear our thoughts, knowledge, and experience with different people using this application we can create post customized posts and post them on a website and able to read other users' posts.
 
 Tools and technologies:
- Backend:1.Spring Boot.
+ Backend:       
+                1.Spring Boot.
+                
                 2. Hibernate(ORM)
                 
                 3.MySql-Workbench-8.0
