@@ -45,8 +45,8 @@ FrontEnd:
 
 DataBase=MysqlWorkBench 8.0
 
-ER DIAGRAM-![image](https://user-images.githubusercontent.com/110629636/196457209-0046294c-6975-4358-bc3a-f44c1385e23a.png)
-
+ER DIAGRAM-
+![ER Diagram bloging Application](https://user-images.githubusercontent.com/110629636/196459622-7cfa4513-4de5-48c2-849f-7d38590e796e.png)
 
 
 
