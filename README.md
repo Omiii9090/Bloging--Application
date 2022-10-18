@@ -11,7 +11,7 @@ Introduction:
 A blogging Application is a type of social website it allows people to interact with each other. it is very easy to start and maintain. we can able to update our content and post by creating a post we can able to shear our thoughts, knowledge, and experience with different people using this application we can create post customized posts and post them on a website and able to read other users' posts.
 
 
-Tools and technologies:
+# Tools and technologies:
  Backend:       
                  
                 1.Spring Boot.
@@ -28,7 +28,7 @@ Tools and technologies:
                 
                 7.JWT Authorization(not completly Working )
 
- Testing:
+ # Testing:
               1.PostMan (for API Testing )
 
 FrontEnd:
@@ -41,11 +41,17 @@ FrontEnd:
               
               4.Tostify
               
-              5.Axios          
+              5.Axios     
+              
+
+# Architecture And Flow OF Code:
+The layered architecture style is one of the most common architectural styles. The idea behind Layered Architecture is that modules or components with similar functionalities are organized into horizontal layers. As a result, each layer performs a specific role within the application.
+
+Diagram for Flow 
+![Presentation1](https://user-images.githubusercontent.com/110629636/196507660-aee0744d-84d3-4ca6-a6cc-48f1680d1429.jpg)
 
 
-
-UI Of Bloging-App
+# UI Of Bloging-App
 
 
 1.Registration page 
