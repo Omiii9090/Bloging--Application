@@ -13,6 +13,7 @@ A blogging Application is a type of social website it allows people to interact 
 
 Tools and technologies:
  Backend:       
+                 
                 1.Spring Boot.
                 
                 2. Hibernate(ORM)
