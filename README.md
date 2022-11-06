@@ -133,7 +133,7 @@ image 2
 
 # Future Modifications:
 
-1.Trying for 100 working of Jwt.
+1.Trying for 100 % working of Jwt.
 
 2.Deployment On AWS.
 
